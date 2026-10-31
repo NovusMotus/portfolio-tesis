@@ -1,8 +1,8 @@
 # Tesis y documentación por proyecto
 
-Borradores locales para revisión; no publicados ni aprobados. Una línea puede partir de una idea, hipótesis, aplicación, práctica o problema. Su origen y propósito se atribuyen cuando constan, sin juicios de valor.
+Borradores públicos para revisión. Primer lote publicado el 01-11-2026 con autorización de Javier; publicar no equivale a validar el contenido. Una línea puede partir de una idea, hipótesis, aplicación, práctica o problema. Su origen y propósito se atribuyen cuando constan, sin juicios de valor.
 
-Las carpetas temáticas pertenecen al futuro repositorio público candidato. Fuentes, historial y copias anteriores permanecen en la preparación privada. La privacidad se separa por repositorios. Esta edición contiene 82 fichas desarrolladas, con 75 fichas de 3 páginas y 7 fichas de 4 páginas en el PDF. La aprobación de Javier sigue pendiente. Las referencias y modelos históricos desconocidos permanecen sin confirmar.
+Las carpetas temáticas organizan las fichas de este repositorio público. Fuentes, historial y copias anteriores permanecen en la preparación privada. La privacidad se separa por repositorios. Esta edición contiene 82 fichas desarrolladas, con 75 fichas de 3 páginas y 7 fichas de 4 páginas en el PDF. La revisión completa del contenido por Javier sigue pendiente; la publicación de este lote está autorizada. Las referencias y modelos históricos desconocidos permanecen sin confirmar.
 
 La impresión UV y el comercio local virtual cuentan con fichas específicas a partir de su conversación de origen recuperada. Cada ficha delimita sus fuentes, desarrollo y cuestiones abiertas; no sustituye los documentos originales ni acredita sus conclusiones por reproducirlas.
 
@@ -125,3 +125,9 @@ La impresión UV y el comercio local virtual cuentan con fichas específicas a p
 ## Bibliografía recuperada y límites
 
 [Entradas históricas 1–109](BIBLIOGRAFIA_COMENTADA.md) y [19 referencias recientes, con cuatro correcciones](REFERENCIAS_RECIBIDAS.md). Son referencias de investigación sobre contenido ajeno, sin atribuir uso, resultados o productos propios. No se recibieron las fichas detalladas 110–128 ni se revalidaron todos los enlaces.
+
+## Publicación y procedencia
+
+Actualización administrativa del 01-11-2026: estado de publicación y referencias. Se conserva el [lote inicial exacto](https://github.com/NovusMotus/portfolio-tesis/tree/edb493379be63d2e767572cb491efd8ed1e50119) y las versiones históricas. `LOTE_ORIGEN.json` describe ese primer lote; los cambios posteriores permanecen en Git. Las tesis individuales no se han reescrito.
+
+Preparación asistida por Codex / OpenAI `gpt-6.1-sol` (turn_context 2026-10-31T22:40:31.050Z).

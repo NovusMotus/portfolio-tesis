@@ -1,0 +1,15 @@
+{
+  "id": "caso-manual-cardiologia",
+  "title": "Caso de estudio de Council para revisión documental de un manual de cardiología",
+  "area": "tecnologicos",
+  "version": "2026-10-14-v5",
+  "created_at": "2026-10-13T15:20:11.034140+02:00",
+  "words": 1810,
+  "first_documentary_date": null,
+  "date_basis": "Fecha de elaboración del caso Council no confirmada. El manual subyacente conserva referencias internas de revisión discrepantes; no se elige una como fecha de autoría ni se infiere el inicio del caso.",
+  "public_candidate": true,
+  "approved_for_upload": false,
+  "source_originals_copied": false,
+  "updated_at": "2026-10-14T14:24:02.047202+02:00",
+  "main_body_words": 1336
+}

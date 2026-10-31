@@ -1,0 +1,9 @@
+# Cambios de versiones
+
+- 2026-10-14-v6 · 2026-10-14T22:39:30.198026+02:00 · Se describe el estudio técnico de instalación, alojamiento, rendimiento y firmware sin asociarlo a circunstancias personales.
+- 2026-10-14-v5 · 2026-10-14T14:24:02.047202+02:00 · Se sustituye el diagrama del TL;DR por una imagen conceptual del proyecto, con leyenda visible, herramientas y modelo identificado o sin confirmar. Se conservan los cuatro puntos del resumen y el desarrollo completo.
+- 2026-10-14-v4 · 2026-10-14T05:13:55.610967+02:00 · Se corrige la compatibilidad de la tipografía del SVG y se fija el ancho de sus etiquetas para conservar la geometría en el navegador. Se archiva el SVG anterior por hash; no cambia la idea, el TL;DR ni el desarrollo.
+- 2026-10-14-v3 · 2026-10-14T05:08:02.221350+02:00 · Se añade un esquema vectorial original al TL;DR y su atribución fechada de herramientas y modelo. Se conservan el resumen de cuatro puntos y el desarrollo completo; no se añaden resultados ni se cambia el estado del proyecto.
+- 2026-10-14-v2 · 2026-10-14T03:52:39.542293+02:00 · Se añade al comienzo un TL;DR específico: propósito, aportación/enfoque, trabajo acreditado y resultados/límites. Se conserva el desarrollo completo; decisiones, fechas, modelos y pruebas ausentes no se inventan.
+- 2026-10-14-v1 · 2026-10-14T02:57:54.562952+02:00 · Se amplía el contexto de investigación y se distingue de las propuestas de ampliación, monitorización y piloto no ejecutadas en esta preparación.
+- 2026-10-13-v2 · 2026-10-13T23:18:35.546360+02:00 · Se añaden los desarrollos: La comparación empieza por quién asume cada tarea; Relacionar configuración y condiciones de alojamiento; Una comparación también necesita un recorrido de incidencias; Diseño de una comprobación futura y su alcance; Separar la investigación de la actividad privada. Las propuestas nuevas se atribuyen al asistente y se registra el modelo de este turno sin alterar las atribuciones anteriores.

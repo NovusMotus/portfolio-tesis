@@ -1,0 +1,15 @@
+{
+  "id": "carro-paradas",
+  "title": "Representación digital del carro de paradas para consulta y práctica",
+  "area": "clinicos",
+  "version": "2026-10-14-v5",
+  "created_at": "2026-10-13T15:20:11.034140+02:00",
+  "words": 1893,
+  "first_documentary_date": "2026-09-26",
+  "date_basis": "Fecha de creación de la maqueta declarada en el historial del README.",
+  "public_candidate": true,
+  "approved_for_upload": false,
+  "source_originals_copied": false,
+  "updated_at": "2026-10-14T14:24:02.047202+02:00",
+  "main_body_words": 1420
+}

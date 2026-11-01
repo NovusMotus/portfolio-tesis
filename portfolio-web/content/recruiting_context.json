@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "scope": "Comparación editorial entre requisitos publicados y temas de las citas. No acredita habilidades ni experiencia. No contiene candidaturas, CV ni perfil privado. No se indexa como evidencia de los proyectos.",
+  "sources": {
+    "UFV": {"label":"UFV · Procesos y automatización","url":"https://es.linkedin.com/jobs/view/product-owner-procesos-y-automatizacion-at-universidad-francisco-de-vitoria-4479501633"},
+    "VITROLIFE": {"label":"Vitrolife · Producto digital","url":"https://career.vitrolifegroup.com/jobs/8046639-digital-product-owner"},
+    "QIDA": {"label":"Qida · Producto con IA","url":"https://qida.teamtailor.com/jobs/8564253-ai-product-builder"},
+    "COJALI": {"label":"Cojali · Adopción y uso responsable de IA","url":"https://www.cojali.com/es/empleo/49/ia-practice-lead/"},
+    "OMNILOY": {"label":"Omniloy · Adopción y relación con usuarios","url":"https://careers.laberit.com/jobs/customer-success-manager-healthcare-ai"},
+    "KEYRUS": {"label":"Keyrus · Gobernanza de IA","url":"https://jobs.keyrus.es/jobs/8556736-ai-governance-lead"}
+  },
+  "capabilities": {
+    "analisis-procesos": {"roles":"Producto, análisis funcional y automatización","text":"Las ofertas piden analizar procesos y resolver problemas. Estos pasajes permiten conversar sobre cómo se define una tarea y se organiza su flujo antes de construir; no prueban una solución implantada.","sources":["UFV","QIDA"]},
+    "delimitacion-alcance": {"roles":"Producto y análisis de requisitos","text":"Definir necesidades y alcance ayuda a explicar qué debe hacer una solución y qué queda fuera. Los pasajes permiten revisar esos límites; no equivalen a haber gestionado un backlog o negociado prioridades con un equipo.","sources":["UFV","VITROLIFE"]},
+    "comparacion-criterios": {"roles":"Producto, consultoría y gobernanza","text":"Comparar alternativas y señalar evidencia ausente permite discutir criterios de decisión. Los textos sirven para reconstruir esa comparación; no acreditan decisiones empresariales ejecutadas ni resultados medidos.","sources":["VITROLIFE","KEYRUS"]},
+    "relacion-componentes": {"roles":"Producto y automatización de procesos","text":"Los requisitos de producto incluyen dependencias y responsabilidades. Los pasajes permiten examinar relaciones entre partes de una propuesta. Distribuir funciones entre agentes no acredita colaboración con equipos humanos.","sources":["VITROLIFE","UFV"]},
+    "adaptacion-mecanismos": {"roles":"Diseño de producto y exploración de soluciones","text":"La curiosidad y la generación de alternativas son pertinentes para explorar usos nuevos. Aquí puede revisarse qué se toma de una referencia y cómo se adapta; la asociación no demuestra utilidad, innovación validada o éxito comercial.","sources":["QIDA","UFV"]},
+    "revision-iteracion": {"roles":"Diseño de producto y revisión de calidad","text":"Revisar una variante permite explicar qué criterio provocó un cambio. Los pasajes conservan las valoraciones descritas; no acreditan un sistema de calidad, mejora continua organizativa ni validación con usuarios.","sources":["QIDA","VITROLIFE"]},
+    "documentacion-trazable": {"roles":"Gobernanza, documentación y formación","text":"Las ofertas valoran documentación clara y evidencia trazable. Estos pasajes permiten revisar versiones, atribución y cobertura. No sustituyen experiencia operando controles, auditorías o un programa de gestión del conocimiento.","sources":["KEYRUS","COJALI"]},
+    "diseno-interaccion": {"roles":"Producto digital y diseño de actividades de aprendizaje","text":"Diseñar un recorrido o actividad ayuda a explicar una intención de uso. Los pasajes permiten examinar la propuesta; no demuestran haber facilitado talleres, formado usuarios o medido aprendizaje y adopción.","sources":["VITROLIFE","COJALI"]},
+    "exploracion-herramientas": {"roles":"IA aplicada y automatización","text":"Las ofertas piden trabajo práctico con IA. Estas citas permiten reconstruir la exploración declarada y sus objetivos. No equivalen a AI Enablement, dominio de ingeniería, automatizaciones en producción ni aprendizaje evaluado.","sources":["QIDA","COJALI"]},
+    "comunicacion-proposito": {"roles":"Producto, adopción y formación de usuarios","text":"Explicar contenido complejo con claridad es pertinente para estas funciones. Los pasajes permiten revisar intención, destinatario y significado. Gestionar stakeholders requiere además ejemplos de interlocución, expectativas y seguimiento que esta conexión no aporta.","sources":["OMNILOY","COJALI"]}
+  }
+}

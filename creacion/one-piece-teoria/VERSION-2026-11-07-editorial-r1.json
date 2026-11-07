@@ -1,0 +1,84 @@
+{
+  "thesis_id": "one-piece-teoria",
+  "version_id": "2026-11-07-editorial-r1",
+  "previous_version_id": "2026-10-14-v6",
+  "created_at": "2026-11-07T19:50:09.616232Z",
+  "timezone": "Europe/Madrid",
+  "changes": [
+    {
+      "type": "corrected",
+      "description": "Sustituye únicamente la afirmación administrativa de no publicación y distingue los metadatos históricos de la edición editorial actual. Conserva literalmente el estado y sus límites sustantivos.",
+      "basis": "Consulta del árbol público completo en 2cd2acbd44ae01f98481e383af2368bce2973b43 y la declaración de publicación del README de ese commit."
+    },
+    {
+      "type": "added",
+      "description": "Registro fechado con vínculo a la versión histórica, hash del contenido nuevo y atribución del aporte administrativo.",
+      "basis": "Procedimiento de versiones del portfolio; no revisión sustantiva de los proyectos."
+    }
+  ],
+  "contributions": [
+    {
+      "actor": "Codex",
+      "tool": "Codex desktop",
+      "tool_version": null,
+      "provider": "OpenAI",
+      "model": "gpt-6.1-sol",
+      "model_status": "verified_runtime_metadata",
+      "role": "Preparación de la corrección administrativa; no reautoría de la tesis histórica",
+      "evidence": "REF-2d9a168c-0950-4687-b35b-d76aa17a61f7; fuente restringida; no verificable desde esta vista. Metadatos del turno de elaboración; no atestación del proveedor."
+    },
+    {
+      "actor": "Programa de edición administrativa",
+      "tool": "Python",
+      "tool_version": "3.12.14",
+      "provider": null,
+      "model": null,
+      "model_status": "not_applicable",
+      "role": "Transformación reproducible de cabecera, conservación de cuerpo y cálculo de huellas",
+      "evidence": "Registros de preparación y verificación locales; misma referencia REF-2d9a168c-0950-4687-b35b-d76aa17a61f7; fuente restringida; no verificable desde esta vista."
+    },
+    {
+      "actor": "Lectura de publicación",
+      "tool": "Conector GitHub",
+      "tool_version": null,
+      "provider": "GitHub",
+      "model": null,
+      "model_status": "not_applicable",
+      "role": "Consulta de rama y árbol públicos; sin escritura",
+      "evidence": "https://github.com/NovusMotus/portfolio-tesis/tree/2cd2acbd44ae01f98481e383af2368bce2973b43"
+    }
+  ],
+  "sources": [
+    {
+      "reference": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/creacion/one-piece-teoria/TESIS.md",
+      "date_status": "Fecha de redacción declarada por la fuente: 2026-10-14; no demuestra fecha de inicio de la idea.",
+      "private": false
+    },
+    {
+      "reference": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/README.md",
+      "date_status": "Estado documental observado al preparar esta edición; no se reconstruye aquí la primera publicación.",
+      "private": false
+    }
+  ],
+  "content_file": "TESIS-2026-11-07-editorial-r1.md",
+  "content_sha256": "f0196b79c1ed2e7de1854a55846cc5cf9a43c22fb8245b52a2ed1da70a2ecd79",
+  "approval_status": "review_pending",
+  "approval_status_recorded_at": "2026-11-07T19:50:09.616232Z",
+  "approval_status_scope": "Estado de la preparación en created_at. Una autorización posterior de publicación se registra por separado en la PR y en su registro de liberación; este campo histórico no afirma la visibilidad actual.",
+  "original_content_sha256": "783a63d7356a99d93b0cd5ce59b7da31f2e1041d85e32604ea0c3e5f9eb1cb85",
+  "original_git_blob": "8eb6d5fff1037b5f995d3b0c414c32767259dbee",
+  "previous_version_source_url": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/creacion/one-piece-teoria/VERSION.json",
+  "previous_version_record_sha256": "ccbf31543ac063efd709567d5d42bb830faed9a1d58cd813e7073bb38f0d2ee2",
+  "historical_created_at_declared": "2026-10-13T15:20:11.034140+02:00",
+  "historical_updated_at_declared": "2026-10-14T22:39:30.198026+02:00",
+  "historical_first_documentary_date": null,
+  "historical_date_basis": "no confirmada",
+  "first_idea_origin_not_reconstructed_by_this_edition": true,
+  "original_version_id_declared": "2026-10-14-v6",
+  "original_authored_date_declared": "2026-10-14",
+  "original_state_declared_verbatim": "borrador local para revisión.",
+  "historical_body_below_header_sha256": "7a7d52543be17b50b0669d69024f5fcba043db0b4d1141ed6663b5ba4a4e0ac1",
+  "historical_attribution_policy": "Las atribuciones del cuerpo histórico se conservan literalmente; las contribuciones de este registro se limitan a la edición administrativa.",
+  "historical_origin_policy": "Esta edición no recalcula ni borra las referencias temporales del cuerpo; no infiere inicio por fecha de copia o publicación.",
+  "independent_editorial_review_record": "../../REVISION_EDITORIAL_2026-11-07-r1.json"
+}

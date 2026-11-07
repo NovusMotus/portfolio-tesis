@@ -1,0 +1,84 @@
+{
+  "thesis_id": "tareas-programadas-agentes",
+  "version_id": "2026-11-07-editorial-r1",
+  "previous_version_id": "2026-10-14-v6",
+  "created_at": "2026-11-07T19:50:09.616232Z",
+  "timezone": "Europe/Madrid",
+  "changes": [
+    {
+      "type": "corrected",
+      "description": "Sustituye únicamente la afirmación administrativa de no publicación y distingue los metadatos históricos de la edición editorial actual. Conserva literalmente el estado y sus límites sustantivos.",
+      "basis": "Consulta del árbol público completo en 2cd2acbd44ae01f98481e383af2368bce2973b43 y la declaración de publicación del README de ese commit."
+    },
+    {
+      "type": "added",
+      "description": "Registro fechado con vínculo a la versión histórica, hash del contenido nuevo y atribución del aporte administrativo.",
+      "basis": "Procedimiento de versiones del portfolio; no revisión sustantiva de los proyectos."
+    }
+  ],
+  "contributions": [
+    {
+      "actor": "Codex",
+      "tool": "Codex desktop",
+      "tool_version": null,
+      "provider": "OpenAI",
+      "model": "gpt-6.1-sol",
+      "model_status": "verified_runtime_metadata",
+      "role": "Preparación de la corrección administrativa; no reautoría de la tesis histórica",
+      "evidence": "REF-2d9a168c-0950-4687-b35b-d76aa17a61f7; fuente restringida; no verificable desde esta vista. Metadatos del turno de elaboración; no atestación del proveedor."
+    },
+    {
+      "actor": "Programa de edición administrativa",
+      "tool": "Python",
+      "tool_version": "3.12.14",
+      "provider": null,
+      "model": null,
+      "model_status": "not_applicable",
+      "role": "Transformación reproducible de cabecera, conservación de cuerpo y cálculo de huellas",
+      "evidence": "Registros de preparación y verificación locales; misma referencia REF-2d9a168c-0950-4687-b35b-d76aa17a61f7; fuente restringida; no verificable desde esta vista."
+    },
+    {
+      "actor": "Lectura de publicación",
+      "tool": "Conector GitHub",
+      "tool_version": null,
+      "provider": "GitHub",
+      "model": null,
+      "model_status": "not_applicable",
+      "role": "Consulta de rama y árbol públicos; sin escritura",
+      "evidence": "https://github.com/NovusMotus/portfolio-tesis/tree/2cd2acbd44ae01f98481e383af2368bce2973b43"
+    }
+  ],
+  "sources": [
+    {
+      "reference": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/metodologia/tareas-programadas-agentes/TESIS.md",
+      "date_status": "Fecha de redacción declarada por la fuente: 2026-10-14; no demuestra fecha de inicio de la idea.",
+      "private": false
+    },
+    {
+      "reference": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/README.md",
+      "date_status": "Estado documental observado al preparar esta edición; no se reconstruye aquí la primera publicación.",
+      "private": false
+    }
+  ],
+  "content_file": "TESIS-2026-11-07-editorial-r1.md",
+  "content_sha256": "6b2ef63bd60cc43170d825efe336f1c3c07bee5d43511f3b587186eefd64cfa7",
+  "approval_status": "review_pending",
+  "approval_status_recorded_at": "2026-11-07T19:50:09.616232Z",
+  "approval_status_scope": "Estado de la preparación en created_at. Una autorización posterior de publicación se registra por separado en la PR y en su registro de liberación; este campo histórico no afirma la visibilidad actual.",
+  "original_content_sha256": "8050370b1a7ce956ffa434c964b70f05b333d1e20373f19c8e0388eb8bec18c2",
+  "original_git_blob": "3e384f0c60118db90df90004ef2050b9fa92e11e",
+  "previous_version_source_url": "https://github.com/NovusMotus/portfolio-tesis/blob/2cd2acbd44ae01f98481e383af2368bce2973b43/metodologia/tareas-programadas-agentes/VERSION.json",
+  "previous_version_record_sha256": "8154b6e07dfd6a29661f93a22617428c4dd2d30df322be7bc80d875fe899be3e",
+  "historical_created_at_declared": "2026-10-14T00:54:42.999456+02:00",
+  "historical_updated_at_declared": "2026-10-14T14:24:02.047202+02:00",
+  "historical_first_documentary_date": "2026-10-13",
+  "historical_date_basis": "Fecha del mensaje que pide incorporar esta línea; no fecha demostrada de creación de las tareas ni del inicio de la práctica. La observación y su registro corresponden al 14 de octubre de 2026 en Europe/Madrid.",
+  "first_idea_origin_not_reconstructed_by_this_edition": true,
+  "original_version_id_declared": "2026-10-14-v6",
+  "original_authored_date_declared": "2026-10-14",
+  "original_state_declared_verbatim": "borrador local para revisión.",
+  "historical_body_below_header_sha256": "0ec71130fe4996b53896ab90f67164136c7f5ab298feb588ce1992ab9f1526e2",
+  "historical_attribution_policy": "Las atribuciones del cuerpo histórico se conservan literalmente; las contribuciones de este registro se limitan a la edición administrativa.",
+  "historical_origin_policy": "Esta edición no recalcula ni borra las referencias temporales del cuerpo; no infiere inicio por fecha de copia o publicación.",
+  "independent_editorial_review_record": "../../REVISION_EDITORIAL_2026-11-07-r1.json"
+}
